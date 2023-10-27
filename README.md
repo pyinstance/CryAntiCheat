@@ -36,7 +36,7 @@ Due to constant Discord terminations I will not be making a new support server. 
 35 - 64
 3. While still on the config.lua script goto lines 10, 11, 12, 13 ,14 and change 
 the info image show below
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="removeme/Code_9PpRQgBBYm.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
 
 
 
